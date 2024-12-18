@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    }
+    
+    /* main */
+    .main
+    {
+    width: 1000px;
+    background-color: rgb(238, 233, 233);
+    margin: auto;
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    }
+    .panel{
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 1000px;
+    /* background-color: rgb(248, 242, 242); */
+    }
+    
+    
+    /* start panel-header */
+    .panel-header{
+    border-bottom: 2px solid #32aada;
+    
+    }
+    
+    .panel-header h2{
+    color:rgb(71, 70, 70) ;
+    font-weight: lighter;
+    padding-bottom: 15px;
+    }
+    /* end panel-header */
+    
+    
+    /* start container */
+    
+    .container
+    {
+    width: 1000px;
+    background-color: rgb(186, 188, 188);
+    margin-top: 10px;
+    }
+    
+    
+    /* start con-header */
+    
+    .con-header{
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    background-color: #4fc2f0;
+    
+    }
+    
+    .con-header h4{
+    font-weight: lighter;
+    padding-left: 10px;
+    }
+    
+    /* start con-header */
+    .form-group{
+    margin-bottom: 15px;
+    }
+    
+    .form-label{
+    display: block;
+    color:black;
+    font-weight: bold;
+    font-size: 15px;
+    
+    }
+    
+    .form-control {
+    width: 223px;
+    height: 30px;
+    margin-left: 10px;
+    border: 1px solid #c4bdbd;
+    /* padding-left: 10px; */
+    }
+    
+    
+    .form-group-second
+    {
+    display: inline-block;
+    width: 223px;
+    }
+    .form-group-second2{
+    width: 223px;
+    display: inline-block;
+    
+    }
+    
+    .form-group-second3{
+    width: 400px;
+    display: inline-block;
+    margin-left: 17px;
+    }
+    
+    .form-label3{
+    text-align: left;
+    
+    }
+    
+    .form-control3{
+    width: 478px;
+    height: 30px;
+    }
+    
+    
+    
+    .form-control2{
+    height: 34px;
+    margin-left: 32px;
+    width: 233px;
+    }
+    
+    .form-label2{
+    margin-left: 30px;
+    }
+    
+    .form-label1{
+    display: block;
+    }
+    
+    
+    
+    .form-group-third{
+    display: inline-block;
+    margin-top: 15px;
+    
+    }
+    
+    .form-label-A{
+    display: block;
+    }
+    
+    
+    .form-control-A {
+    height: 30px;
+    width: 150px;
+    padding-left: 23px;
+    margin-left: 12px;
+    }
+    
+    .form-group-second3b{
+    margin-left: 10px;
+    width: 400px;
+    display: inline-block;
+    
+    }
+    
+    .form-group-four{
+    display: inline-block;
+    margin-top: 15px;
+    }
+    
+    .form-label-four{
+    display: block;
+    }
+    
+    .form-control-four{
+    height: 30px;
+    width: 478px;
+    margin-left: 10px;
+    }
+    
+    .form-group-second3z{
+    margin-left: 0px;
+    }
+    
+    .form-group-second2z{
+    margin-left: 62px;
+    }
+    
+    .form-group-second2x{
+    margin-left: 17px;
+    margin-top: 15px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    .form-group-second3p{
+    display: inline-block;
+    width: 225px;
+    margin-left: 10px;
+    }
+    
+    .form-label3p{display: block;}
+    
+    .form-control3p{
+    width: 225px;
+    height: 30px;
+    }
+    
+    
+    
+    .form-group-second3p2{
+    display: inline-block;
+    width: 225px;
+    margin-left: 21px;
+    }
+    
+    .form-controlp2{
+    width: 225px;
+    height: 30px;
+    }
+    
+    
+    .form-labelp2{display: block;}
+    
+    .form-group-second3p3{
+    display: inline-block;
+    width: 225px;
+    margin-left: 23px;
+    }
+    
+    .form-label3p3{display: block;}
+    
+    .form-group-second3p4{
+    display: inline-block;
+    width: 225px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    
+    }
+    .form-label3p4{display: block;}
+    
+    
+    
+    .form-control3p4{height: 30px;
+    width: 225px;
+    }
+    /* end container */
+    
+    

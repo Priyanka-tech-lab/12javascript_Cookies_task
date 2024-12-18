@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4.page</title>
+</head>
+<body>
+    <label id="lbl1"></label>
+    <P>welcome home</P>
+    <input type="button" value="Log out" onclick="btn1Click()" style="text-align: center;"><br><br><br>
+   
+
+    <!-- 4index.html js -->
+    <script>
+        var QueryString = new URLSearchParams(window.location.search);
+        window.onload = function()
+        {
+            
+            if(QueryString.has("OTP") == true)
+            {
+                lbl1.innerHTML = QueryString.get("Name");
+            }
+           
+        }
+
+        function btn1Click() {
+
+            window.location.href= "2index.html";
+ 
+            
+        }
+    </script>
+
+    
+
+
+
+
+
+</body>
+</html>
